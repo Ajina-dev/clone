@@ -1,0 +1,66 @@
+
+.aaa{
+    margin-right: 5px;
+}
+
+
+
+
+
+
+.menu{
+    margin-left: 50px;
+    height: 30px;
+    font-size: medium;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    h1{
+        font-family: "Satisfy", cursive;
+        font-weight: 300;
+        padding-top: 20px;
+        margin-left: 25px;
+       
+       
+       
+    }
+   
+}
+.menu :hover{
+    
+    
+        cursor: pointer;
+
+    }
+   
+  
+  
+  .row{
+    margin-left: 300px;
+     position: absolute;
+     top: 1em;
+     height: 100px;
+  }
+  .image{
+    flex-direction: row;
+  }
+  .card{
+    margin-left: 500px;
+  }
+  h6{
+    margin-left: 500px;
+    margin-top: 10px;
+  }
+  .fa-solid fa-ellipsis-vertical{
+    margin-left: 600px;
+  }
+  .row-3{
+    position: absolute;
+    top: 1em;
+    margin-left: 1500px;
+  }
+  .row-4{
+    margin-left: 1200px;
+    
+  }
+  
